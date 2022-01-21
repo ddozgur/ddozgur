@@ -10,12 +10,6 @@
 <div  align="center"> <img src="https://github.com/ddozgur/ddozgur/blob/output/github-contribution-grid-snake.gif" /></div>
 
 
-<div  align="center"><p> - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
-- ![Html](https://img.shields.io/badge/-Html-%23F7DF1C?style=flat-square&logo=html&logoColor=000000&labelColor=%grey&color=red)
-- ![Php](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=Php&logoColor=ffffff&labelColor=blue&color=blue)
-- ![Laravel](https://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=Laravel&logoColor=ffffff&labelColor=%red&color=red) </p></div>
-
-
 ### İlgi alanları 💻
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
 - ![Html](https://img.shields.io/badge/-Html-%23F7DF1C?style=flat-square&logo=html&logoColor=000000&labelColor=%grey&color=red)
