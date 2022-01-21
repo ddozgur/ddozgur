@@ -19,7 +19,7 @@
 
 ### Interesses 💻
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-- ![JavaScript](https://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=Laravel&logoColor=000000&labelColor=%#ee3a2c&color=%#ee3a2c)
+- ![JavaScript](https://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=Laravel&logoColor=#ee3a2c&labelColor=%#ee3a2c&color=%#ee3a2c)
 - 
 - ![React](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&labelColor=blue&color=blue)
 - ![Nodejs](https://img.shields.io/badge/-Html-339933?style=flat-square&logo=html&logoColor=ffffff)
