@@ -30,3 +30,5 @@
 - ![Nodejs](https://img.shields.io/badge/-c++-339933?style=flat-square&logo=c++&logoColor=ffffff)
 - ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=Java&logoColor=ffffff&labelColor=blue&color=blue)
 - ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=Python&logoColor=ffffff&labelColor=blue&color=blue)
+- ![Python](https://img.shields.io/badge/-C++-%23F7DF1C?style=flat-square&logo=C&logoColor=ffffff&labelColor=blue&color=blue)
+- 
