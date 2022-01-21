@@ -15,3 +15,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ozgurduzenli/)](https://www.linkedin.com/in/ozgurduzenli/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ozgur_duzenli/)](https://www.instagram.com/ozgur_duzenli/)
 [![Twtitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://https://twitter.com/OzgurDuzenli)](https://twitter.com/OzgurDuzenli)
+
+
+### Interesses 💻
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+- ![React](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
+- ![Nodejs](https://img.shields.io/badge/-Html-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+- ![PHP](https://img.shields.io/badge/-Css-%23F7DF1C?style=flat-square&logo=PHP&logoColor=ffffff&labelColor=blue&color=blue)
+- ![MySql](https://img.shields.io/badge/-Angular-%23F7DF1C?style=flat-square&logo=MySQL&logoColor=00008b&labelColor=%00008b&color=%00008b)
