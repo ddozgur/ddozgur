@@ -26,9 +26,10 @@
 
 - ![Nodejs](https://img.shields.io/badge/-jquery-339933?style=flat-square&logo=jquery&logoColor=ffffff)
 - ![PHP](https://img.shields.io/badge/-git-%23F7DF1C?style=flat-square&logo=git&logoColor=ffffff&labelColor=blue&color=blue)
-- ![PHP](https://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=css&logoColor=ffffff&labelColor=blue&color=blue)
-- ![Nodejs](https://img.shields.io/badge/-c++-339933?style=flat-square&logo=c++&logoColor=ffffff)
-- ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=Java&logoColor=ffffff&labelColor=blue&color=blue)
-- ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=Python&logoColor=ffffff&labelColor=blue&color=blue)
+- ![Laravel](https://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=css&logoColor=ffffff&labelColor=blue&color=blue)
+-  ![Python](https://img.shields.io/badge/-Laravel23F7DF1C?style=flat-square&logo=Laravel&logoColor=ffffff&labelColor=blue&color=blue)
+
+- ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=Java&logoColor=ffffff&labelColor=blue&color=red)
+- ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=Python&logoColor=ffffff&labelColor=blue&color=yellow)
 - ![Python](https://img.shields.io/badge/-C++-%23F7DF1C?style=flat-square&logo=C&logoColor=ffffff&labelColor=blue&color=blue)
 - 
