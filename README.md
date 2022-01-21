@@ -26,7 +26,7 @@
 
 - ![Nodejs](https://img.shields.io/badge/-jquery-339933?style=flat-square&logo=jquery&logoColor=ffffff)
 - ![PHP](https://img.shields.io/badge/-git-%23F7DF1C?style=flat-square&logo=git&logoColor=ffffff&labelColor=blue&color=blue)
-- ![laravel](https://img.shields.io/laravel/-Angular-%23F7DF1C?style=flat-square&logo=laravel&logoColor=00008b&labelColor=%00008b&color=%00008b)
+- ![PHP](https://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=css&logoColor=ffffff&labelColor=blue&color=blue)
 - ![Nodejs](https://img.shields.io/badge/-c++-339933?style=flat-square&logo=c++&logoColor=ffffff)
 - ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=Java&logoColor=ffffff&labelColor=blue&color=blue)
 - ![python](https://img.shields.io/python/-Angular-%23F7DF1C?style=flat-square&logo=python&logoColor=00008b&labelColor=%00008b&color=%00008b)
