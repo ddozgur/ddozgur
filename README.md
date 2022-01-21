@@ -22,4 +22,4 @@
 - ![React](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
 - ![Nodejs](https://img.shields.io/badge/-Html-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 - ![PHP](https://img.shields.io/badge/-Css-%23F7DF1C?style=flat-square&logo=PHP&logoColor=ffffff&labelColor=blue&color=blue)
-- ![MySql](https://img.shields.io/badge/-Angular-%23F7DF1C?style=flat-square&logo=MySQL&logoColor=00008b&labelColor=%00008b&color=%00008b)
+- ![Angular](https://img.shields.io/badge/-Angular-%23F7DF1C?style=flat-square&logo=MySQL&logoColor=00008b&labelColor=%00008b&color=%00008b)
