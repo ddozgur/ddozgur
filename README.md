@@ -19,14 +19,14 @@
 
 ### Interesses 💻
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
-- ![Html](https://img.shields.io/badge/-Html-%23F7DF1C?style=flat-square&logo=html&logoColor=000000&labelColor=%grey&color=23ed5e27)
+- ![Html](https://img.shields.io/badge/-Html-%23F7DF1C?style=flat-square&logo=html&logoColor=000000&labelColor=%grey&color=red)
 - ![Php](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=Php&logoColor=ffffff&labelColor=blue&color=blue)
 - ![Laravel](https://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=Laravel&logoColor=000000&labelColor=%red&color=red)
 - ![Css](https://img.shields.io/badge/-Css-%23F7DF1C?style=flat-square&logo=css&logoColor=ffffff&labelColor=yellow&color=yellow)
 - ![jquery](https://img.shields.io/badge/-jquery-339933?style=flat-square&logo=jquery&logoColor=ffffff)
-- ![git](https://img.shields.io/badge/-git-%23F7DF1C?style=flat-square&logo=git&logoColor=ffffff&labelColor=blue&color=blue)
+- ![git](https://img.shields.io/badge/-git-%23F7DF1C?style=flat-square&logo=git&logoColor=ffffff&labelColor=red&color=red)
 
-- ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=Java&logoColor=ffffff&labelColor=blue&color=red)
+- ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=Java&logoColor=ffffff&labelColor=lightblue&color=red)
 - ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=Python&logoColor=ffffff&labelColor=blue&color=yellow)
 - ![Python](https://img.shields.io/badge/-C-%23F7DF1C?style=flat-square&logo=C&logoColor=ffffff&labelColor=blue&color=blue)
 
