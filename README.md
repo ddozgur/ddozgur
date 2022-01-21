@@ -15,8 +15,8 @@
 ### İlgi alanları 💻
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
 - ![Html](https://img.shields.io/badge/-Html-%23F7DF1C?style=flat-square&logo=html&logoColor=000000&labelColor=%grey&color=red)
-- ![Php](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=Php&logoColor=000000&labelColor=blue&color=blue)
-- ![Laravel](https://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=Laravel&logoColor=000000&labelColor=%red&color=red)
+- ![Php](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=Php&logoColor=ffffff&labelColor=blue&color=blue)
+- ![Laravel](https://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=Laravel&logoColor=ffffff&labelColor=%red&color=red)
 - ![Css](https://img.shields.io/badge/-Css-%23F7DF1C?style=flat-square&logo=css&logoColor=ffffff&labelColor=yellow&color=yellow)
 - ![jquery](https://img.shields.io/badge/-jquery-339933?style=flat-square&logo=jquery&logoColor=ffffff)
 - ![git](https://img.shields.io/badge/-git-%23F7DF1C?style=flat-square&logo=git&logoColor=ffffff&labelColor=red&color=red)
