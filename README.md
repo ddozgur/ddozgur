@@ -19,14 +19,14 @@
 
 ### Interesses 💻
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-- ![React](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
+- ![React](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=php&logoColor=ffffff&labelColor=blue&color=blue)
 - ![Nodejs](https://img.shields.io/badge/-Html-339933?style=flat-square&logo=html&logoColor=ffffff)
-- ![PHP](https://img.shields.io/badge/-Css-%23F7DF1C?style=flat-square&logo=PHP&logoColor=ffffff&labelColor=blue&color=blue)
-- ![Angular](https://img.shields.io/badge/-Angular-%23F7DF1C?style=flat-square&logo=MySQL&logoColor=00008b&labelColor=%00008b&color=%00008b)
+- ![PHP](https://img.shields.io/badge/-Css-%23F7DF1C?style=flat-square&logo=css&logoColor=ffffff&labelColor=blue&color=blue)
+- ![Angular](https://img.shields.io/badge/-Angular-%23F7DF1C?style=flat-square&logo=angular&logoColor=00008b&labelColor=%00008b&color=%00008b)
 
-- ![Nodejs](https://img.shields.io/badge/-jquery-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-- ![PHP](https://img.shields.io/badge/-git-%23F7DF1C?style=flat-square&logo=PHP&logoColor=ffffff&labelColor=blue&color=blue)
-- ![Angular](https://img.shields.io/laravel/-Angular-%23F7DF1C?style=flat-square&logo=MySQL&logoColor=00008b&labelColor=%00008b&color=%00008b)
-- - ![Nodejs](https://img.shields.io/badge/-c++-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-- ![PHP](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=PHP&logoColor=ffffff&labelColor=blue&color=blue)
-- ![Angular](https://img.shields.io/python/-Angular-%23F7DF1C?style=flat-square&logo=MySQL&logoColor=00008b&labelColor=%00008b&color=%00008b)
+- ![Nodejs](https://img.shields.io/badge/-jquery-339933?style=flat-square&logo=jquery&logoColor=ffffff)
+- ![PHP](https://img.shields.io/badge/-git-%23F7DF1C?style=flat-square&logo=git&logoColor=ffffff&labelColor=blue&color=blue)
+- ![Angular](https://img.shields.io/laravel/-Angular-%23F7DF1C?style=flat-square&logo=laravel&logoColor=00008b&labelColor=%00008b&color=%00008b)
+- - ![Nodejs](https://img.shields.io/badge/-c++-339933?style=flat-square&logo=c++&logoColor=ffffff)
+- ![PHP](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=Java&logoColor=ffffff&labelColor=blue&color=blue)
+- ![Angular](https://img.shields.io/python/-Angular-%23F7DF1C?style=flat-square&logo=python&logoColor=00008b&labelColor=%00008b&color=%00008b)
