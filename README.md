@@ -21,7 +21,7 @@
 - ![git](https://img.shields.io/badge/-git-%23F7DF1C?style=flat-square&logo=git&logoColor=ffffff&labelColor=red&color=red)
 
 - ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=Java&logoColor=ffffff&labelColor=red&color=red)
-- ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=Python&logoColor=ffffff&labelColor=blue&color=%23F7DF1C)
+- ![Python](https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=Python&logoColor=ffffff&labelColor=%23F7DF1C&color=%23F7DF1C)
 - ![C](https://img.shields.io/badge/-C-%23F7DF1C?style=flat-square&logo=C&logoColor=ffffff&labelColor=blue&color=blue)
 
 
