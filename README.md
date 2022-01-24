@@ -12,7 +12,7 @@
 
 ### İlgi alanları 💻
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
-- ![Html](https://img.shields.io/badge/-Html-%23F7DF1C?style=flat-square&logo=html&logoColor=000000&labelColor=%grey&color=red)
+- ![Angular](https://img.shields.io/badge/-Angular-%23F7DF1C?style=flat-square&logo=angular&logoColor=000000&labelColor=%grey&color=red)
 - ![Php](https://img.shields.io/badge/-PHP-%23F7DF1C?style=flat-square&logo=Php&logoColor=ffffff&labelColor=blue&color=blue)
 - ![Laravel](https://img.shields.io/badge/-Laravel-%23F7DF1C?style=flat-square&logo=Laravel&logoColor=ffffff&labelColor=%red&color=red)
 
